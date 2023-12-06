@@ -2,6 +2,8 @@
 
 Welcome to the Ola Cab Booking System backend repository! This system is developed using Spring Boot and Spring Data JPA, with MySQL as the database.
 
+![Screenshot from 2023-12-06 23-14-06](https://github.com/shaikhsoheel185/Ecommerce_WebApp_HTML_CSS/assets/92295256/d4ceedb2-dafc-447b-b244-ef18e7242855)
+
 ## Features
 
 ### User Role
@@ -9,8 +11,13 @@ Welcome to the Ola Cab Booking System backend repository! This system is develop
 #### Register as a User
 To use Ola Cab services, users need to register by creating an account. The registration process involves providing necessary information to create a user profile.
 
+![Screenshot from 2023-12-06 23-19-34](https://github.com/shaikhsoheel185/Ecommerce_WebApp_HTML_CSS/assets/92295256/ddde85b1-36fa-4415-a93d-6016550a8519)
+
+
 #### Book a Ride
 Users can book a ride through the system. They can specify the pickup location, destination, and other relevant details. The system processes the request and assigns a driver to the user.
+
+![Screenshot from 2023-12-06 23-16-44](https://github.com/shaikhsoheel185/Ecommerce_WebApp_HTML_CSS/assets/92295256/32a926e2-0f9b-4e26-ba96-fe593c31904d)
 
 ### Driver Role
 
